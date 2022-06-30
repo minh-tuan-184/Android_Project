@@ -40,6 +40,8 @@ public class MainActivity extends AppCompatActivity {
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
                 //ua alo wtf la sao z
+
+                //hiiiii
             }
         });
     }
